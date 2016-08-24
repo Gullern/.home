@@ -1,3 +1,4 @@
-ln -s /media/jangu/stud/ ~/stud
+ln -s /media/jangu/stud ~/stud
 cp ./.vimrc ~/.vimrc
-cp ./.bashrc ~/.bashrc
+cp ./.nanorc ~/.nanorc
+
